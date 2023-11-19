@@ -5,17 +5,13 @@ In the ever-evolving landscape of data science and machine learning, the signifi
 
 ## 2.	Goals
 The following are the goal of this project:
-**1.	Generate realistic synthetic:**  Data Develop synthetic datasets that mirror the statistical properties, patterns, and relationships found in actual economic data to provide users with authentic and challenging scenarios for analysis.
-**2.	Facilitate learning :** Accompany each dataset with a comprehensive description, including background information, data generation methodologies, and sample research questions. This will aid users in gaining a deep understanding of the datasets and in honing their data science skills.
-### 3.	Encourage Innovation
-Inspire creativity and innovation by fostering a community-driven platform where users can share their insights, methodologies, and applications of the datasets. This collaborative environment will contribute to the advancement of data science and machine learning practices.
+### **i. Data Develop synthetic datasets that mirror the statistical properties, patterns, and relationships found in actual economic data to provide users with authentic and challenging scenarios for analysis.
+### ii Accompany each dataset with a comprehensive description, including background information, data generation methodologies, and sample research questions. This will aid users in gaining a deep understanding of the datasets and in honing their data science skills.
+### iii. Inspire creativity and innovation by fostering a community-driven platform where users can share their insights, methodologies, and applications of the datasets. This collaborative environment will contribute to the advancement of data science and machine learning practices.
 ## 3.	Objectives of the project
-### 1.	Dataset diversity
-Create synthetic datasets covering a spectrum of areas, including but not limited to cybersecurity, agriculture, healthcare, energy, finance, employment, trade, and macroeconomic indicators, ensuring a broad range of applications.
-### 2.	User-friendly platform
-Develop an intuitive and accessible online platform, the “SynthDataHub”, where users can easily browse, download, and contribute to the datasets. Implement features for filtering datasets based on complexity, size, and specific economic parameters.
-### 3.	Educational resources
-Provide educational materials, tutorials, and sample analyses alongside each dataset to guide users through the process of exploration, visualization, and modeling. Foster a learning community through forums and discussion boards.
+### i. Create synthetic datasets covering a spectrum of areas, including but not limited to cybersecurity, agriculture, healthcare, energy, finance, employment, trade, and macroeconomic indicators, ensuring a broad range of applications.
+### ii.	Develop an intuitive and accessible online platform, the “SynthDataHub”, where users can easily browse, download, and contribute to the datasets. Implement features for filtering datasets based on complexity, size, and specific economic parameters.
+### iii.	Provide educational materials, tutorials, and sample analyses alongside each dataset to guide users through the process of exploration, visualization, and modeling. Foster a learning community through forums and discussion boards.
 
 ## 4.	Significance of project
 The SynthDataHub project addresses critical challenges in the data science community. By offering realistic synthetic datasets, it promotes hands-on learning and experimentation in a risk-free environment. This initiative is especially valuable for learners, researchers, and professionals who seek diverse datasets for honing their skills, testing hypotheses, and developing and validating machine learning models. Additionally, the collaborative nature of the platform encourages knowledge sharing, fostering a vibrant community that pushes the boundaries of data science and machine learning.
