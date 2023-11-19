@@ -1,14 +1,12 @@
 # SynthDataHub - Fostering Data Exploration and Modeling with Synthetic Datasets
 
 ## 1.	Introduction
-In the ever-evolving landscape of data science and machine learning, the significance of practical and diverse datasets cannot be overstated. Real-world data presents numerous challenges and complexities, but it often comes with limitations such as privacy concerns, accessibility, and the need for continuous updates. The SynthDataHub project aims to bridge this gap by providing publicly accessible synthetic datasets meticulously designed to closely mimic real-world economic data. These datasets are tailored to various economic areas, offering a unique resource for individuals and organizations engaged in data analysis, data visualization, and data modeling, particularly within the realm of machine learning.
+In the ever-evolving landscape of data science and machine learning, the significance of practical and diverse datasets cannot be overstated. Real-world data presents numerous challenges and complexities, but it often comes with limitations such as privacy concerns, accessibility, and the need for continuous updates. The **SynthDataHub** project aims to bridge this gap by providing publicly accessible synthetic datasets meticulously designed to closely mimic real-world economic data. These datasets are tailored to various economic areas, offering a unique resource for individuals and organizations engaged in data analysis, data visualization, and data modeling, particularly within the realm of machine learning.
 
 ## 2.	Goals
 The following are the goal of this project:
-### 1.	Generate realistic synthetic 
-Data Develop synthetic datasets that mirror the statistical properties, patterns, and relationships found in actual economic data to provide users with authentic and challenging scenarios for analysis.
-### 2.	Facilitate learning
-Accompany each dataset with a comprehensive description, including background information, data generation methodologies, and sample research questions. This will aid users in gaining a deep understanding of the datasets and in honing their data science skills.
+**1.	Generate realistic synthetic:**  Data Develop synthetic datasets that mirror the statistical properties, patterns, and relationships found in actual economic data to provide users with authentic and challenging scenarios for analysis.
+**2.	Facilitate learning :** Accompany each dataset with a comprehensive description, including background information, data generation methodologies, and sample research questions. This will aid users in gaining a deep understanding of the datasets and in honing their data science skills.
 ### 3.	Encourage Innovation
 Inspire creativity and innovation by fostering a community-driven platform where users can share their insights, methodologies, and applications of the datasets. This collaborative environment will contribute to the advancement of data science and machine learning practices.
 ## 3.	Objectives of the project
