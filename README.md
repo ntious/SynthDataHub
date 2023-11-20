@@ -5,7 +5,7 @@ In the ever-evolving landscape of data science and machine learning, the signifi
 
 ## 2.	Goals
 The following are the goal of this project:
-### **i. Data Develop synthetic datasets that mirror the statistical properties, patterns, and relationships found in actual economic data to provide users with authentic and challenging scenarios for analysis.
+### i. Data Develop synthetic datasets that mirror the statistical properties, patterns, and relationships found in actual economic data to provide users with authentic and challenging scenarios for analysis.
 ### ii Accompany each dataset with a comprehensive description, including background information, data generation methodologies, and sample research questions. This will aid users in gaining a deep understanding of the datasets and in honing their data science skills.
 ### iii. Inspire creativity and innovation by fostering a community-driven platform where users can share their insights, methodologies, and applications of the datasets. This collaborative environment will contribute to the advancement of data science and machine learning practices.
 ## 3.	Objectives of the project
