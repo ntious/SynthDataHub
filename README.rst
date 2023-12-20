@@ -1,6 +1,11 @@
+
+
+.. image:: https://github.com/ntious/SynthDataHub/assets/38074003/90d6e284-cb53-4992-93f1-d7d9f184b742
+   :alt: Descriptive text for the image
+   :align: center
 =============
-SynthDataHub
-=============
+
+
 **Fostering Data Exploration and Modeling with Synthetic Datasets**
 
 The SynthDataHub project addresses critical challenges in the data science community. By offering realistic synthetic datasets, it promotes hands-on learning and experimentation in a risk-free environment. This initiative is especially valuable for learners, researchers, and professionals who seek diverse datasets for honing their skills, testing hypotheses, and developing and validating machine learning models. Additionally, the collaborative nature of the platform encourages knowledge sharing, fostering a vibrant community that pushes the boundaries of data science and machine learning.
