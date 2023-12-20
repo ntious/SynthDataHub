@@ -3,6 +3,28 @@
 .. image:: https://github.com/ntious/SynthDataHub/assets/38074003/90d6e284-cb53-4992-93f1-d7d9f184b742
    :alt: Descriptive text for the image
    :align: center
+
+.. image:: https://forthebadge.com/images/badges/built-with-love.svg
+   :target: https://forthebadge.com
+   :align: center
+
+.. image:: https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg
+   :target: https://forthebadge.com
+   :align: center
+.. image:: https://forthebadge.com/images/badges/powered-by-coffee.svg
+   :target: https://forthebadge.com
+   :align: center
+
+
+
+
+
+
+
+
+
+
+
 =============
 
 
