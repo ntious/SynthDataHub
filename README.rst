@@ -42,6 +42,18 @@ The SynthDataHub project addresses critical challenges in the data science commu
 
 Agriculture
 -------------
+* `Agroecology Impact Dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Agroecology%20Impact%20Dataset>`_
+
+* `Agroforestry Impact Dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Agroforestry%20Impact%20Dataset>`_
+* `Climate-Resilient Agriculture Dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Climate-Resilient%20Agriculture%20Dataset>`_
+* `Crop Diversity and Resilience Dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Crop%20Diversity%20and%20Resilience%20Dataset>`_
+* `Crop yield dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Crop%20yield%20dataset>`_
+* `Food Supply Chain Sustainability Dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Food%20Supply%20Chain%20Sustainability%20Dataset>`_
+* `Gender-Inclusive Agriculture Dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Gender-Inclusive%20Agriculture%20Dataset>`_
+* `Precision agriculture dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Precision%20agriculture%20dataset>`_
+* `Smallholder Farming Dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Smallholder%20Farming%20Dataset>`_
+* `Soil Health and Fertility Dataset <https://github.com/ntious/SynthDataHub/tree/7c87a6aef99c96f53a03583eb450082b9bf695da/Agriculture/Soil%20Health%20and%20Fertility%20Dataset>`_
+
 
 Education
 -------------
