@@ -47,8 +47,15 @@ Education
 -------------
 * `Student academic performance <https://github.com/ntious/SynthDataHub/tree/main/Education/Student%20academic%20performance>`_
 
+
+Environment
+-------------
+
+Healthcare
+----------
+
 Hospitality Industry
-------------------------
+--------------------
 
 Information Technology & Computer Science
 --------------------------------------------
