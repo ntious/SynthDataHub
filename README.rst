@@ -62,15 +62,21 @@ Education
 
 Environment
 -------------
+* `Weather dataset <https://github.com/ntious/SynthDataHub/tree/c241b8c62df1a9f940368a4006eee783634fe64a/Environments/Weather%20dataset>`_
 
 Healthcare
 ----------
+* `E-commerce website customer review <https://github.com/ntious/SynthDataHub/tree/c241b8c62df1a9f940368a4006eee783634fe64a/Hospitality%20Industry/E-commerce%20website%20customer%20review>`_
 
 Hospitality Industry
 --------------------
+* `Mental Health <https://github.com/ntious/SynthDataHub/tree/c241b8c62df1a9f940368a4006eee783634fe64a/Healthcare/Mental%20Health>`_
 
 Information Technology & Computer Science
 --------------------------------------------
 * `CPU processing power <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/CPU%20processing%20power>`_
+* `Cybersecurity Threat Intelligence <https://github.com/ntious/SynthDataHub/tree/c241b8c62df1a9f940368a4006eee783634fe64a/Information%20Technology%20%26%20Computer%20Science/Cybersecurity%20Threat%20Intelligence>`_
+* `Cybersecurity Threat Intelligence <https://github.com/ntious/SynthDataHub/tree/c241b8c62df1a9f940368a4006eee783634fe64a/Information%20Technology%20%26%20Computer%20Science/Cybersecurity%20Threat%20Intelligence>`_
 * `Network performance <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Network%20performance>`_
 * `Network Traffic for intrusion detection <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Network%20traffic%20for%20intrusion%20detection>`_
+* `Software defects <https://github.com/ntious/SynthDataHub/tree/c241b8c62df1a9f940368a4006eee783634fe64a/Information%20Technology%20%26%20Computer%20Science/Software%20defects>`_
