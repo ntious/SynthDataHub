@@ -7,8 +7,10 @@
 .. image:: https://forthebadge.com/images/badges/built-with-love.svg
    :target: https://forthebadge.com
    :align: center
-
-.. image:: https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg
+.. image:: https://forthebadge.com/images/badges/license-mit.svg
+   :target: https://forthebadge.com
+   :align: center
+.. image:: https://forthebadge.com/images/badges/open-source.svg
    :target: https://forthebadge.com
    :align: center
 .. image:: https://forthebadge.com/images/badges/powered-by-coffee.svg
@@ -80,3 +82,22 @@ Information Technology & Computer Science
 * `Network performance <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Network%20performance>`_
 * `Network Traffic for intrusion detection <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Network%20traffic%20for%20intrusion%20detection>`_
 * `Software defects <https://github.com/ntious/SynthDataHub/tree/c241b8c62df1a9f940368a4006eee783634fe64a/Information%20Technology%20%26%20Computer%20Science/Software%20defects>`_
+
+
+
+
+
+SUPPORT 
+----------
+.. image:: https://img.shields.io/badge/SynthDataHub%20-%20orange
+   :target: https://forthebadge.com
+   :align: center
+.. image:: https://img.shields.io/badge/Support%20-%20red
+   :target: https://forthebadge.com
+   :align: center
+.. image:: https://img.shields.io/badge/Sponsor-%20blue
+   :target: https://forthebadge.com
+   :align: center
+* Do you have any ideas for improvement? We'd love to hear them! Please open an issue and share it with us.
+ Help fuel our open-source mission if you like what you see, give us a star ⭐ and share the love, we love seeing our community thrive.
+
