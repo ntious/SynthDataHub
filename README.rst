@@ -1,7 +1,7 @@
 
 
 .. image:: https://github.com/ntious/SynthDataHub/assets/38074003/90d6e284-cb53-4992-93f1-d7d9f184b742
-   :alt: Descriptive text for the image
+   :alt: SynthDataHub
    :align: center
 
 .. image:: https://forthebadge.com/images/badges/built-with-love.svg
@@ -106,6 +106,7 @@ Information Technology & Computer Science
 
 SUPPORT 
 ----------
+
 .. image:: https://img.shields.io/badge/SynthDataHub%20-%20orange
    :target: https://forthebadge.com
    :align: center
@@ -115,6 +116,8 @@ SUPPORT
 .. image:: https://img.shields.io/badge/Sponsor-%20blue
    :target: https://forthebadge.com
    :align: center
+
 * Do you have any ideas for improvement? We'd love to hear them! Please open an issue and share it with us.
+
  Help fuel our open-source mission if you like what you see, give us a star ⭐ and share the love, we love seeing our community thrive.
 
