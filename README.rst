@@ -71,6 +71,13 @@ Edge Computing and IoT Security
 * `Edge Devices Dataset <https://github.com/ntious/SynthDataHub/tree/main/Edge%20Computing%20and%20IoT%20Security/Synthetic_devices_data>`_
 * `Network Traffic Dataset <https://github.com/ntious/SynthDataHub/tree/main/Edge%20Computing%20and%20IoT%20Security/Synthetic_traffic_data>`_
 
+Information Technology & Computer Science
+--------------------------------------------
+* `CPU Processing Power Dataset <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/CPU%20processing%20power>`_
+* `Network Performance Dataset <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Network%20performance>`_
+* `Network Traffic for Intrusion Detection Dataset <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Network%20traffic%20for%20intrusion%20detection>`_
+* `Software Defects Dataset <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Software%20defects>`_
+
 Education
 -------------
 * `Student Academic Performance Dataset <https://github.com/ntious/SynthDataHub/tree/main/Education/Student%20academic%20performance>`_
@@ -86,15 +93,6 @@ Healthcare
 Hospitality & Tourism
 --------------------
 * `E-commerce Website Customer Review Dataset <https://github.com/ntious/SynthDataHub/tree/main/Healthcare/Mental%20Health>`_
-
-Information Technology & Computer Science
---------------------------------------------
-* `CPU Processing Power Dataset <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/CPU%20processing%20power>`_
-* `Network Performance Dataset <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Network%20performance>`_
-* `Network Traffic for Intrusion Detection Dataset <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Network%20traffic%20for%20intrusion%20detection>`_
-* `Software Defects Dataset <https://github.com/ntious/SynthDataHub/tree/main/Information%20Technology%20%26%20Computer%20Science/Software%20defects>`_
-
-
 
 
 
