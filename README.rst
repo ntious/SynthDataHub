@@ -73,7 +73,7 @@ Edge Computing and IoT Security
 
 Education
 -------------
-* `Student Academic Performance Dataset<https://github.com/ntious/SynthDataHub/tree/main/Education/Student%20academic%20performance>`_
+* `Student Academic Performance Dataset <https://github.com/ntious/SynthDataHub/tree/main/Education/Student%20academic%20performance>`_
 
 Environment
 -------------
