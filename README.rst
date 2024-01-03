@@ -105,9 +105,13 @@ Hello Data Enthusiasts! 👩‍💻👨‍💻
 We're happy to see the community benefiting from our open source synthetic datasets! 🚀 If you use our datasets in your projects, research, or applications, we kindly request that you give credit to the source—us! 🙏
 
 Here's a simple guide:
+
 * 🌟 Mention us in your acknowledgments.
+
 * 📚 Include a reference to our project in your documentation or publications.
+
 * 📢 Share the love! Let others know where they can access these awesome datasets.
+
 Cite this work as: Nti, I. K., Dzamesi, L., & Reddy, G. S. D. (2024). SynthDataHub: Fostering Data Exploration and Modeling with Synthetic Datasets. https://doi.org/10.13140/RG.2.2.18173.13282
 
 SUPPORT 
