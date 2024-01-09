@@ -5,7 +5,7 @@ Vulnerabilities Dataset
 Description
 ^^^^^^^^^^^^
 
-This dataset simulates information about known vulnerabilities, including **vulnerability_ID**, Common Vulnerabilities and Exposures (CVE) **cve_ID**, **description**, and **severity**.
+This dataset simulates information about known vulnerabilities, including **vulnerability_ID**, Common Vulnerabilities and Exposures (CVE) **cve_ID** and **severity**.
 
 Possible Applications
 ^^^^^^^^^^^^^^^^^^^^^^^
