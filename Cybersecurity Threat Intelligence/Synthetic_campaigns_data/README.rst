@@ -4,7 +4,7 @@ Campaigns Dataset
 
 Description
 ^^^^^^^^^^^^^
-This dataset simulates information about cyber campaigns, including **campaign ID**, **name**, **type**, and **motivation**.
+This dataset simulates information about cyber campaigns, including **campaign ID**, **type**, and **motivation**.
 
 Possible Applications
 ^^^^^^^^^^^^^^^^^^^^^^^
