@@ -5,7 +5,7 @@ Threat Actors Dataset
 Description
 ^^^^^^^^^^^^^
 
-This dataset simulates information about threat actors, including **actor_ID**, **actor_name**, **actor_type**, and **motive**.
+This dataset simulates information about threat actors, including **actor_ID**, **actor_type**, and **motive**.
 
 Possible Applications
 ^^^^^^^^^^^^^^^^^^^^^^
