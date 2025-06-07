@@ -51,9 +51,9 @@ SYNTHDATAHUB/
 ├── LICENSE
 └── README.md
 ```
-# License & Attribution
+## License & Attribution
 Scripts © 2025 I.K. Nti A., licensed for educational use within Data Tech Essentials.
-Datasets:
+### Datasets:
 * mtcars & iris – R Base (Public Domain)
 * Wi-Fi RSSI – UCI Machine Learning Repository (Creative Commons CC BY 4.0)
-Happy coding — and remember to commit early & often! 🚀
+#### Happy coding — and remember to commit early & often! 🚀
