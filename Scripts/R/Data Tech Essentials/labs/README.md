@@ -30,28 +30,30 @@ Wi-Fi RSSI dataset.
 
 ## 2  Repository Structure
 
+## 2  Repository Structure
+
+```text
 SYNTHDATAHUB/
 ├── Agriculture/
 ├── Cybersecurity Threat Intelligence/
 ├── Edge Computing and IoT Security/
-├── …                                            # other domain folders
+├── …                       # other domain folders
 ├── Scripts/
 │   ├── Python/
-│   └── R / Data Tech Essentials/labs/
-│                               ├── M3Lab_EDA_Inferential.R
-│                               ├── M4Lab1_Regression.R
-│                               ├── M4Lab2_Classification.R
-│                               ├── M4Lab3_Clustering.R
-│                               └── README.rst
+│   └── R / Data Tech Essentials/
+│       └── labs/
+│           ├── M3Lab_EDA_Inferential.R
+│           ├── M4Lab1_Regression.R
+│           ├── M4Lab2_Classification.R
+│           ├── M4Lab3_Clustering.R
+│           └── README.md
 ├── .gitignore
 ├── LICENSE
-└── README.rst
-
-
+└── README.md
+```
 # License & Attribution
 Scripts © 2025 I.K. Nti A., licensed for educational use within Data Tech Essentials.
 Datasets:
-
-mtcars & iris – R Base (Public Domain)
-Wi-Fi RSSI – UCI Machine Learning Repository (Creative Commons CC BY 4.0)
+* mtcars & iris – R Base (Public Domain)
+* Wi-Fi RSSI – UCI Machine Learning Repository (Creative Commons CC BY 4.0)
 Happy coding — and remember to commit early & often! 🚀
